@@ -3,7 +3,7 @@ using UnityEngine;
 public class SimpleFPS : MonoBehaviour
 {
     public float speed = 5f;
-    public float mouseSensitivity = 2f;
+    public float mouseSensitivity = 1f;
     public float flySpeed = 5f;
 
     float xRotation = 0f;
